@@ -3,6 +3,9 @@
 <!--
 **nrdanisha/nrdanisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdanisha&layout=compact&theme=dracula&langs_count=8)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +20,3 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrdanisha&theme=dracula&show_icons=true&card_width=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdanisha&layout=compact&theme=dracula&langs_count=8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdanisha)](https://github.com/nrdanisha/github-readme-stats)
